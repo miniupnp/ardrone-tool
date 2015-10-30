@@ -1,3 +1,6 @@
 *.o
 *.dep
 *.so
+plfinfo/plfinfo
+plf_inst_extract/plf_inst_extract
+usb_flash/usb_flash
